@@ -1,4 +1,4 @@
-# Introducció als Objectes i Arrays a JavaScript
+# Objectes i Arrays a JavaScript
 
 Anem a repassar alguns conceptes bàsics sobre objectes i arrays a JavaScript. Aquests conceptes són essencials per a la programació en JavaScript, i són molt útils per a la manipulació de dades, de fet essencials!!!
 
@@ -142,7 +142,7 @@ No et compliquis i fes servir `console.log()` per mostrar els resultats per la c
 
 ### Exercici 1
 
-Donada la següent array de plats preferitsescriu una funció que mostri a la consola aquesta llista.
+Donada la següent array de plats preferits escriu una funció que mostri a la consola aquesta llista.
 
 ```javascript
 // Exemple de solució
