@@ -145,7 +145,6 @@ No et compliquis i fes servir `console.log()` per mostrar els resultats per la c
 Donada la següent array de plats preferits escriu una funció que mostri a la consola aquesta llista.
 
 ```javascript
-// Exemple de solució
 const platsPreferits = ['pizza', 'hamburguesa', 'sushi', 'gelat'];
 ```
 
