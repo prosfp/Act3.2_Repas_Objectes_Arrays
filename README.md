@@ -142,7 +142,7 @@ No et compliquis i fes servir `console.log()` per mostrar els resultats per la c
 
 ### Exercici 1
 
-Donada la següent array de plats preferits escriu una funció que mostri a la consola aquesta llista.
+Donada la següent array de plats preferits escriu una funció que mostri a la consola aquesta llista de la següent manera: "El meus plats preferits són: plat1, plat2, plat3...".
 
 ```javascript
 const platsPreferits = ['pizza', 'hamburguesa', 'sushi', 'gelat'];
