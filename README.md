@@ -207,8 +207,6 @@ const preusProductes = {
 };
 ```
 
-T'han dit que això es pot fer de manera molt òptima amb filter i reduce. Crea una funció que ho faci.
-
 ### Exercici 8
 
 Tens el següent llistat d'informació sobre persones. Crea una funció que retorni l'edat mitjana de les persones que tenen entre 25 i 40 anys.
@@ -225,3 +223,5 @@ const persones = [
   { nom: 'Júlia', edat: 22 },
 ];
 ```
+
+T'han dit que això es pot fer de manera molt òptima amb filter i reduce. Crea una funció que ho faci.
