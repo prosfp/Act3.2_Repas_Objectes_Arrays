@@ -182,7 +182,6 @@ Crea un Array que contingui una llista de tasques pendents (cada tasca ha de ten
 Tens la següent informació que t'arriba d'una API:
 
 ```javascript
-// Exemple de solució
 const poblacioCiutats = {
   Barcelona: 1620343,
   Madrid: 3334730,
